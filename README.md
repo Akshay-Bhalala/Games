@@ -1,4 +1,3 @@
-# Games
 # Simon Says Game
 
 ## Overview
