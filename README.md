@@ -19,5 +19,5 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Akshay-Bhalala/simon-says-game.git
-   cd simon-says-game
+   git clone https://github.com/Akshay-Bhalala/simon says Game.git
+   cd simon says Game
